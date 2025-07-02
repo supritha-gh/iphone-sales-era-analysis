@@ -27,7 +27,6 @@ To build a product-focused Power BI dashboard that:
   - Top-selling models in each era
 
 - **Design Style:**
-  - Inspired by digital car dashboards
   - Interactive slicers and slide-like transitions
   - Modern tile visuals with strong storytelling
 

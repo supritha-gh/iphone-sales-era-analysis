@@ -52,13 +52,10 @@ To build a product-focused Power BI dashboard that:
 ## 📊 Dashboard Previews
 
 ### 2007–2013 Era
-![Slide1](Screenshots/slide1_2007_2013.png)
 
 ### 2014–2020 Era
-![Slide2](Screenshots/slide2_2014_2020.png)
 
 ### 2021–2025 Era
-![Slide3](Screenshots/slide3_2021_2025.png)
 
 > ⚠️ *Disclaimer: This project uses mock data for learning and demonstration purposes only.*
 
